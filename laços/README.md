@@ -1,1 +1,1 @@
-Exemplos dos vídeos 07 da playlist com exemplos práticos
+Exemplos dos vídeos 07 da playlist de Programação de Computadores
